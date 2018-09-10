@@ -6,7 +6,7 @@ You should have Python3 installed with the libraries requests, tkinter and beaut
 
 Install Python3 and pip3 (installed on most Linux-distro's)
 ```
-sudo apt-get install python3.6
+sudo apt-get install python3
 ```
 
 Install packages
